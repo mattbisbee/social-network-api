@@ -11,7 +11,6 @@
   
   * [Installation](#dependencies)
   * [Usage](#usage)
-  * [Credits](#credits)
   * [License](#license)
   * [Features](#features)
   * [Languages](#languages)
@@ -25,8 +24,6 @@
   ## **Usage**
   After installing dependencies, use Insomnia to run routes. Refer to the video included in this README to see what that looks like.
 
-  ## **Credits**
-  
 
   ## **License**
   ![License](https://img.shields.io/badge/License-MIT-orange?style=plastic&logo=appveyor.svg)
@@ -38,6 +35,11 @@
   https://drive.google.com/file/d/1pPc2XbKu_EqfC8b2GWxO6kTfznjShEYm/view
 
   ## **Languages**
+  JavaScript
+  
+  MongoDB
+
+  Mongoose
   
 
   ## **Technology**

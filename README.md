@@ -32,7 +32,14 @@
   <br>
 
   ## **Features**
+  Video for base assignment:
+
   https://drive.google.com/file/d/1pPc2XbKu_EqfC8b2GWxO6kTfznjShEYm/view
+
+  Video for Bonus (removing user removes the thought data as well): 
+
+  https://drive.google.com/file/d/1tZPjojsaeu9NOKcsyH4qQi_YpZImJueO/view
+
 
   ## **Languages**
   JavaScript
@@ -43,7 +50,11 @@
   
 
   ## **Technology**
-  https://www.npmjs.com/package/mongoose, https://mongoosejs.com/, https://www.mongodb.com/
+  https://www.npmjs.com/package/mongoose
+
+  https://mongoosejs.com/
+
+  https://www.mongodb.com/
 
   ## **Tests**
   No tests have been coded for application
